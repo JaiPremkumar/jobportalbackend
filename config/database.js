@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const connectDb = mongoose
-.connect('mongodb://127.0.0.1:27017/jobPortal',{
+.connect('mongodb+srv://premjai411:86HkmKGsm7n90OF2@cloud-cluster.nkcoz.mongodb.net/job-portal?retryWrites=true&w=majority&appName=Cloud-Cluster',{
     useNewUrlParser:true,
     useUnifiedTopology:true
 })

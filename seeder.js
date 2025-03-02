@@ -15,7 +15,7 @@ const seeder=async () => {
         await job.insertMany(jobs)
         console.log('inserted')
         
-    } catch (error) {
+    } catch (err) {
         console.log(err)
     }
     process.exit()
