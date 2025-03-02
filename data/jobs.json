@@ -1,0 +1,73 @@
+[
+    {
+        "name":"React Developer",
+        "salary":55000,
+        "description":"In this role you will be responsible for developing and implementing user interface components",
+        "ratings":4.3,
+        "skills":"Html,css,javascript,React",
+        "domain":"frontend",
+        "vendor":"TechSolution",
+        "numOfReviews":5,
+        "vaccancy":1,
+        "review":[ ]
+    },
+    {
+        "name":"javaFullstack Developer",
+        "salary":50000,
+        "description":" You will also be responsible for profiling and improving back-end performance and documenting our back-end codebase.",
+        "ratings":4.3,
+        "skills":"java",
+        "domain":"backend",
+        "vendor":"InfoTech",
+        "numOfReviews":5,
+        "vaccancy":3,
+        "review":[ ]
+    },
+    {
+        "name":"MERN stack Developer",
+        "salary":45000,
+        "description":" You will also be responsible for profiling and improving front-end performance and documenting our back-end codebase.",
+        "ratings":4.3,
+        "skills":"React,Node",
+        "domain":"Fullstack",
+        "vendor":"TechSolution",
+        "numOfReviews":5,
+        "vaccancy":2,
+        "review":[ ]
+    },
+    {
+        "name":"python Developer",
+        "salary":30000,
+        "description":" You will also be responsible for profiling and improving back-end performance and documenting our back-end codebase.",
+        "ratings":4.3,
+        "skills":"python",
+        "domain":"backend",
+        "vendor":"infoSolution",
+        "numOfReviews":5,
+        "vaccancy":3,
+        "review":[ ]
+    }, {
+        "name":"software tester",
+        "salary":25000,
+        "description":" You will also be responsible for profiling  performance and documenting our testing.",
+        "ratings":4.3,
+        "skills":"java soilom",
+        "domain":"software testing",
+        "vendor":"infoSolution",
+        "numOfReviews":5,
+        "vaccancy":5,
+        "review":[ ]
+    },
+    {
+        "name":"ui/ux designer",
+        "salary":48000,
+        "description":"In this role you will be responsible for developing and implementing user interface",
+        "ratings":4.3,
+        "skills":"Figma",
+        "domain":"designing",
+        "vendor":"infoTech",
+        "numOfReviews":5,
+        "vaccancy":2,
+        "review":[ ]
+    }
+]
